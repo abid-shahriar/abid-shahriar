@@ -22,8 +22,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.abid-shahriar.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.abid-shahriar.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abidshahriar/)](https://www.linkedin.com/in/abidshahriar/)
-<a href="https://www.instagram.com/find.abid/"></a>
-<a href="abidshahriar7@gmail.com"></a>
+
 </p>

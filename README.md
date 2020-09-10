@@ -17,7 +17,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abid-shahriar_icons=true)](https://github.com/abid-shahriar)
+![github stats](https://github-readme-stats.vercel.app/api?username=abid-shahriar&show_icons=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 

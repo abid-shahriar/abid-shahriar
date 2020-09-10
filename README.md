@@ -23,7 +23,9 @@
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abidshahriar/)](https://www.linkedin.com/in/abidshahriar/),
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abidshahriar7@gmail.com)](mailto:abidshahriar7@gmail.com)
+<a href="https://www.abid-shahriar.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.abidshahriar.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/abidshahriar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abidshahriar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/find.abid/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-find.abid__-blue?style=flat-square&logo=instagram"></a>
+<a href="abidshahriar7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abidshahriar7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>

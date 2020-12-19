@@ -5,15 +5,13 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Versity drop-out
 - 🌱 &nbsp; Learning more about Data Structure, Algorithm and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Blog Writing as a hobby.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-- 🛢 &nbsp; MySQL | Firebase | NoSQL | MongoDB
-- 🔧 &nbsp; Git
-- 🖥 &nbsp; Illustrator| Photoshop | Figma
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Sementic UI React
+- 🛢 &nbsp; Node | Express | Mongoose | NoSQL | MongoDB
+- 🔧 &nbsp; Git | Github
 
 <br/>
 

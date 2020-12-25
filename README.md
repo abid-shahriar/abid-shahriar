@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Working as a frontend developer at wikiance.com.
 - 🎓 &nbsp; Versity drop-out
 - 🌱 &nbsp; Learning more about Data Structure, Algorithm and Artificial Intelligence.
 

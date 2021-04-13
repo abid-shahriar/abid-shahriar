@@ -8,9 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Sementic UI React
-- 🛢 &nbsp; Node | Express | Mongoose | NoSQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | ReactJS
+- 🛢 &nbsp; NodeJS | Express | Mongoose | NoSQL | MongoDB
 - 🔧 &nbsp; Git | Github
 
 <br/>

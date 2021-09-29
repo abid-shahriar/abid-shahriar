@@ -2,14 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Working as a frontend developer at wikiance.com.
+- 🤔 &nbsp; Working as a frontend developer.
 - 🎓 &nbsp; Versity drop-out
-- 🌱 &nbsp; Learning more about Data Structure, Algorithm and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Data Structure, Algorithm and coding best practices.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | ReactJS
-- 🛢 &nbsp; NodeJS | Express | Mongoose | NoSQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | TypeScript | ReactJS | NextJS
+- 🛢 &nbsp; NodeJS | Express | Mongoose | MongoDB
 - 🔧 &nbsp; Git | Github
 
 <br/>

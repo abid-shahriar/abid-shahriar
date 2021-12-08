@@ -1,15 +1,7 @@
-<h2> Hey there! Abid here...</h2>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Working as a frontend developer.
-- 🎓 &nbsp; Versity drop-out
-- 🌱 &nbsp; Learning more about Data Structure, Algorithm and coding best practices.
-
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | TypeScript | ReactJS | NextJS
-- 🛢 &nbsp; NodeJS | Express | Mongoose | MongoDB
+- 🛢 &nbsp; NodeJS | Express | MongoDB | Postgres
 - 🔧 &nbsp; Git | Github
 
 <br/>
